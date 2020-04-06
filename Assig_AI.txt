@@ -1,0 +1,64 @@
+bai 1
+clear check;
+incr check;
+while x not 0 do; 
+	decr x;
+	incr check;
+end;
+while check not 0 do;
+	incr x;
+	decr check;
+bai 2:
+
+incr variable_need_to_clear
+while variable_need_to_clear not 0 do;
+	decr variable_need_to_clear
+bai 3:
+
+clear check;
+incr check;
+while x not 0 do;
+	incr check;
+	(your statement)
+end;
+while check not 0 do;
+	decr check;
+	(your statement)
+
+bai 4:
+while in barebone = loop in C
+(incr variable) in barebones = (variable + 1) in C
+(decr variable) in barebones = (variable - 1) in C
+(clear variable) in barebones = (variable = 0) in C
+
+bai 5:
+
+
+
+bai 6:
+
+input: X
+output: Z
+
+i will explain the program line by line:
+in line1 we have 'clear z', and we will recive the result is z = 0
+in line 2 we have a 'while' statement and the loop depend on value of X, in this case i will give value 3 for X
+Loop 1: because x = 3 not 0 so we will do:
+		z will increase one unit and become z = 1
+		z will incease one unit and become z = 2
+		x will decrease one unit and become x = 2
+Loop 2 because x = 2 not 0 so we will do:
+		z will increase one unit and become z = 3
+		z will increase one unit and become z = 4
+		x will decrease one unit and become x = 1
+Loop 3: because x = 1 not 0 so we will do:
+		z will increase one unit and become z = 4
+		z will increase one unit and become z = 5
+		x will decrease one unit and become x = 0
+Loop 4: because x = 0 so the 'while' statement is end
+
+so we have the result is z = 5
+
+		
+
+

@@ -1,0 +1,21 @@
+PUBLIC SAFETY AND SECURITY:
+-> Camera giám sát để phát hiện và ngăn chặn tội phạm
+-> Các công cụ dự đoán thời gian và địa điểm có thể xảy ra việc phạm pháp
+-> Các hệ thống mô phỏng hỗ trợ đào tạo các lực lượng "Law - enforcement personnel"  kết hợp giữa các nước
+ nhầm chống các tổ chức tội phạm, cũng như khủng bố quốc tể
+-> Công cụ để phân tích các mạng xã hội, cũng như sự ảnh hưởng của chúng đến bảo an. Nhầm phòng chống các rủi ro gây ra trên môi trường mạng xã hội
+-> Hỗ trợ việc phát hiện hành vi lừa dối, và hành vi phạm tội, thông qua việc phân tích hành trình, giọng nói, cũng như cử chỉ của đối tượng
+
+
+Ưu điểm:
+-> Phân tích chính xác tình huống
+-> Kiểm soát tội phạm trên phạm vi lớn, nếu có được mạng lưới thiết bị rộng
+-> Không bị yếu tố cảm xúc chi phối khi giải quyết các vấn đề về tội phạm
+-> Giúp việc phá án và điều tra hiệu quả hơn
+-> Tăng cường hợp tác giữa các nước để chống các tổ chức tội phạm quốc tế
+-> Làm giảm nguy cơ, cũng như tỉ lệ xảy ra phạm pháp
+Khuyết điểm:
+-> Chi phí đầu tư cơ sở hạ tầng, cũng như nghiên cứu về hệ thống là rất lớn
+-> Tất cả chương trình đều có lỗ hổng, nếu như các lỗ hổng chương trình Security bị những kẻ giang lận lợi dụng để trục lợi thì sẽ gây hậu quả lớn
+-> AI đưa ra kết quả xấp xỉ và chấp nhận được, nhưng đôi khi không chính xác 100%, Nhưng việc chống tội phạm phải đảm bảo tính chính xác tuyệt đối
+để không dẫn đến hậu quả ngoài ý muốn 
