@@ -1,2 +1,1 @@
-"#Hello-World" 
-"#CS114.K21" 
+Hi all!
