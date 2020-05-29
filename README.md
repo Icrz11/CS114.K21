@@ -1,7 +1,5 @@
 ## An Introdution about the owner of this Repos
 
-
-..*abcd
-. Name: Nguyen Huu Khang.
-. Age: 20.
-. Major: student in UIT university.
+* Name: **Nguyen Huu Khang**.
+* Age: 20.
+* Major: Student in UIT university.
