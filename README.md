@@ -1,3 +1,5 @@
-## Hello every one
-## My name is Khang, im 20 years old, and now im a student in UIT university in VietNam
-## This repos is my workspace in CS114.K21 Class
+## An Introdution about the owner of this Repos
+
+. Name: Nguyen Huu Khang
+. Age: 20
+. Major: student in UIT university
